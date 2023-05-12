@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChatGPT</string>
+    <string name="glt">ChatGPT is a large language model trained by OpenAI, based on the GPT (Generative Pre-trained Transformer) architecture. It is designed to generate human-like responses to natural language prompts, making it useful for a wide range of natural language processing tasks, including text generation, language translation, and question answering.</string>
+</resources>
